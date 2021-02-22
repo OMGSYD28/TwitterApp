@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Twitter - Part I
+<img src='https://github.com/OMGSYD28/TwitterApp/blob/master/ezgif.com-gif-maker%20(04).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># Twitter - Part I
 
 # Twitter - Part I
 
